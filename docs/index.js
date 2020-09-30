@@ -1,1 +1,1 @@
-window.location.replace("http://superharmony910.github.io/SuperHarmony910");
+window.location.replace("https://superharmony910.github.io/SuperHarmony910");
